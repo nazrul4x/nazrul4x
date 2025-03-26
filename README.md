@@ -51,5 +51,3 @@
 <img src="https://raw.githubusercontent.com/nazrul4x/nazrul4x/output/snake.svg" alt="Snake animation" />
 
 ###
-
-##
