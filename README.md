@@ -38,7 +38,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazrul4x&theme=radical" alt="GitHub streak" />
+  <img width="400px" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nazrul4x&theme=radical" alt="GitHub streak" />
 </p>
 
 
