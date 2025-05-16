@@ -28,21 +28,6 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nazrul4x&show_icons=true&title_color=e91e63&text_color=9ca3af&icon_color=e91e63&bg_color=181818&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazrul4x&show_icons=true&hide_border=true&layout=compact&hide=blade&show_icons=true&title_color=e91e63&text_color=9ca3af&icon_color=e91e63&bg_color=181818&include_all_commits=true&count_private=true" height="150" alt="languages graph" >
-</div>
-
-<p align="center">
-  <img width="400px" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nazrul4x&theme=radical" alt="GitHub streak" />
-</p>
-
-
 ## 🔥 Profile Views
 
  <p align="center">
